@@ -1,0 +1,22 @@
+{
+  "name": "appointments",
+  "version": "1.0.0",
+  "description": "Appointments system",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Junscuzzy/Mastering-React-Test-Driven-Development.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Junscuzzy/Mastering-React-Test-Driven-Development/issues"
+  },
+  "homepage": "https://github.com/Junscuzzy/Mastering-React-Test-Driven-Development#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
